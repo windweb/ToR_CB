@@ -30,3 +30,11 @@
 - [функциональность «Импорт -> PacketEPD»](bug_reports%2Fbr0003_import_PacketEPD_with_missing_sum.md)
 - [функциональность «Import -> PacketEPD](bug_reports%2Fbr0004_import_PacketEPD_interface_problem.md)
 - [функциональность «Export -> to JSON»](bug_reports%2Fbr0005_export_to_JSON_invalid_filename.md)
+
+### Файлы 
+
+- [20241020_ED807_full.xml](docs%2F20241020ED01OSBR%2F20241020_ED807_full.xml)
+- [PacketEPD.xml](PacketEPD.xml)
+- [ED101.csv](ED101.csv)
+- [PacketEPD.json](PacketEPD.json)
+- [log.txt](log.txt)
